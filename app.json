@@ -1,0 +1,12 @@
+{
+  "name": "exoRN",
+  "displayName": "exoRN",
+  "expo": {
+    "name": "exoRN",
+    "slug": "exoRN",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
